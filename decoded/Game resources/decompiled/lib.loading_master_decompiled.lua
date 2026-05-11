@@ -5,19 +5,24 @@ L0_1.table = L1_1
 
 function L1_1(A0_2)
   local L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2
+  
   L1_2 = L0_1
   L2_2 = display 
   L2_2 = L2_2.newGroup
   L2_2 = L2_2()
   L1_2.group = L2_2
+  
   L1_2 = L0_1
   L1_2 = L1_2.group
+
   L2_2 = SW
   L2_2 = L2_2 * 0.5
   L1_2.x = L2_2
   L2_2 = SH
   L2_2 = L2_2 * 0.5
   L1_2.y = L2_2
+
+  -- Probably aspect ratio thingies
   L2_2 = SW
   L3_2 = SH
   L2_2 = L2_2 / L3_2
@@ -28,6 +33,8 @@ function L1_1(A0_2)
       goto lbl_24
     end
   end
+
+  -- Most likely compiler garbage
   L2_2 = SW
   ::lbl_24::
   L3_2 = SW
@@ -42,34 +49,45 @@ function L1_1(A0_2)
   L3_2 = SW
   L3_2 = L3_2 * 0.5
   ::lbl_34::
+
+
   L4_2 = SHK
   L4_2 = L4_2 * 0.05
+
   L5_2 = display
   L5_2 = L5_2.newImage
-  L6_2 = "image/background/1.jpg" -- Background
-  L5_2 = L5_2(L6_2)
-  L1_2.bg = L5_2
+  L6_2 = "image/background/1.jpg" -- Background 
+  L5_2 = L5_2(L6_2) -- display.newImage("image/background/1.jpg")
+  L1_2.bg = L5_2 -- loading.bg = display.newImage("image/background/1.jpg")
   L6_2 = L1_2
   L5_2 = L1_2.insert
   L7_2 = L1_2.bg
   L5_2(L6_2, L7_2)
+  
+  -- Height, Width and anchoring
   L5_2 = L1_2.bg
   L5_2.width = L2_2
   L5_2 = L1_2.bg
   L5_2.height = L3_2
   L5_2 = L1_2.bg
   L5_2.anchorX = 1
+
+
   L5_2 = L1_2.bg
   L6_2 = SW
   L6_2 = L6_2 * 0.5
   L5_2.x = L6_2
+
   L5_2 = display
   L5_2 = L5_2.newRoundedRect
   L6_2 = L1_2
+
   L7_2 = 0
+
   L8_2 = SH
   L8_2 = -L8_2
   L8_2 = L8_2 * 0.5
+  
   L9_2 = SHK
   L9_2 = L9_2 * 0.125
   L8_2 = L8_2 + L9_2
@@ -82,6 +100,7 @@ function L1_1(A0_2)
   L11_2 = SHK
   L11_2 = L11_2 * 0.0125
   L5_2 = L5_2(L6_2, L7_2, L8_2, L9_2, L10_2, L11_2)
+
   L1_2.bgTop = L5_2
   L5_2 = L1_2.bgTop
   L6_2 = L5_2
