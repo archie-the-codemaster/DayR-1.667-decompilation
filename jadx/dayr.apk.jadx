@@ -1,0 +1,18 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "../apk/dayr.apk"
+  ],
+  "treeExpansionsV2": [],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [],
+  "cacheDir": "/home/allie/.cache/jadx/projects/dayr-a038987586040ccbc1b71f5abf460b7d",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}

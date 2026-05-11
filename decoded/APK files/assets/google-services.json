@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1012530703691",
+    "firebase_url": "https://api-project-1012530703691.firebaseio.com",
+    "project_id": "api-project-1012530703691",
+    "storage_bucket": "api-project-1012530703691.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012530703691:android:ad2fe649e4bd0bbb",
+        "android_client_info": {
+          "package_name": "com.gm_shaber.dayr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012530703691-kmbn7fd481aaqqqafr60ms7ihccagfo0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1012530703691-3mqaolhlvv78es9di55ju0eat4ha1u8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gm_shaber.dayr",
+            "certificate_hash": "b6ea80f6cd5c9e74d05b654d122860c74f78032f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlZUi_AzWxqxabFZLhKYR5PQQnKHk8x8M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012530703691-kmbn7fd481aaqqqafr60ms7ihccagfo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012530703691:android:14d33cb5375b6340",
+        "android_client_info": {
+          "package_name": "com.gm_shaber.dayrpremium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012530703691-kmbn7fd481aaqqqafr60ms7ihccagfo0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1012530703691-q0u00hdfcne0iuhoei8hfgfj19ufaqh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gm_shaber.dayrpremium",
+            "certificate_hash": "775729e12a0e596e0b24030129bdbef2e56fe5dd"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlZUi_AzWxqxabFZLhKYR5PQQnKHk8x8M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012530703691-kmbn7fd481aaqqqafr60ms7ihccagfo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

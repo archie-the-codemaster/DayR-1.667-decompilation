@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1012530703691-uvv5ijh6gmpgra1o63g1lc496ilm6asf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1012530703691-uvv5ijh6gmpgra1o63g1lc496ilm6asf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1012530703691-q0u00hdfcne0iuhoei8hfgfj19ufaqh4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAynim2VRnMCoNVz0ZHiRnf7IuzJ8ejODE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1012530703691</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dayrfree.gm-shaber</string>
+	<key>PROJECT_ID</key>
+	<string>api-project-1012530703691</string>
+	<key>STORAGE_BUCKET</key>
+	<string>api-project-1012530703691.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1012530703691:ios:721bcef3e0090267</string>
+	<key>DATABASE_URL</key>
+	<string>https://api-project-1012530703691.firebaseio.com</string>
+</dict>
+</plist>
